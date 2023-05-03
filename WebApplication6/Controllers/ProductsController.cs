@@ -18,7 +18,7 @@ namespace WebApplication6.Controllers
         public string Category { get; set; }
 
         
-        // Sonradan eklenecek olan satırlar bunla birleştirilecek.
+        // yazım kurallarına uyarak yazz
     }
     public class ProductsController : ApiController
     {
