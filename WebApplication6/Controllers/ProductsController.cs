@@ -19,6 +19,7 @@ namespace WebApplication6.Controllers
 
         
         // yazım kurallarına uyarak yazz
+        https://localhost:porttt/api/products/city/bursa/district/osmangazi
     }
     public class ProductsController : ApiController
     {
